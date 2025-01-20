@@ -14,6 +14,7 @@ Hotel Bookings: The primary dataset used for this analysis is the "Raw Data.csv"
 
 -Excel
 -PowerBi
+-Python
 
 ### Data Cleaning/Preparation
 
